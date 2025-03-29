@@ -25,7 +25,10 @@ to edge weights, reflecting fluctuating rosd congestion
 levels. 
 
 EXPERIMENTS AND RESULTS 
-    Series of simulation experiment had conducted 
+
+    
+    
+  Series of simulation experiment had conducted 
 to evaluate the performance of the proposed pathfinding 
 framework under varying traffic condition. For each 
 experiment, a vehicle begins at a predefined start node in 
@@ -45,6 +48,8 @@ intervals improved adaptability but increased computional
 demands. For urban networks with moderate traffic, a 5 
 second interval achieved a balanced between responsiveness 
 and computational effieciency.
+
+
 Steps to Run the code.
 
 step 1:  clone the repository.
