@@ -46,11 +46,35 @@ demands. For urban networks with moderate traffic, a 5
 second interval achieved a balanced between responsiveness 
 and computational effieciency.
 Steps to Run the code.
+
 step 1:  clone the repository.
           git clone "https://github.com/GDking08/Route_optimization_using_Hybrid-Algorithm'
+          
 step 2: cd Route_optimization_using_Hybrid-Algorithm
+
 step 3: pip install -r requirements.txt
+
 step 4: run main.py
+
 After successfull executin the html file "route_map" in this diirectory.
+
 click this html to see the route.
+
+
+
+  
+   **CONCLUSION**
+   Thus the study presents a simulation based framework 
+for efficient pathfinding within urban environments.This 
+approach combines A* and Dijkistra with custom cost function 
+to dynamically adjust routes on real-time traffic data. 
+Experimental results demonstrate the potential for enhanced 
+travel efficiency and reduced congestionwithin busy city 
+networks. The Future works focus on integrating real-time 
+data feeds to further improvement adaptability and on 
+optimizing computional performance for real-world 
+applications in smart transportation systems. 
+
+
+
 
