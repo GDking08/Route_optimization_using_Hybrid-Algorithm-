@@ -1,0 +1,8 @@
+numpy
+matplotlib
+
+osmnx
+networkx
+matplotlib
+folium
+psutil
